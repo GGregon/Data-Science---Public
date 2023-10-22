@@ -1,0 +1,22 @@
+Atributo;Tipo de dado;Descrição
+state;String;Sigla de 51 estados norte americanos
+account_length;Numérico;Período, em dias, de uso da conta
+area_code;Numérico;Código da área da região
+phone_number;String;Número da conta (telefone)
+intl_plan;Booleano;Indica se o cliente possui plano internacional (Yes) ou não (No)
+voice_mail_plan;Booleano;Indica se o cliente possui plano de correio de voz (Yes) ou não (No)
+number_vmail_messages;Numérico;Número de mensagens via correio de voz
+total_day_minutes;Numérico;Minutos consumidos pela manhã
+total_day_calls;Numérico;Ligações realizadas pela manhã
+total_day_charge;Numérico;Cobrança pela manhã
+total_eve_minutes;Numérico;Minutos consumidos pela tarde
+total_eve_calls;Numérico;Ligações realizadas pela tarde
+total_eve_charge;Numérico;Cobrança pela tarde
+total_night_minutes;Numérico;Minutos consumidos pela noite
+total_night_calls;Numérico;Ligações realizadas pela noite
+total_night_charge;Numérico;Cobrança pela noite
+total_intl_minutes;Numérico;Minutos consumidos pelo plano internacional
+total_intl_calls;Numérico;Ligações realizadas pelo plano internacional
+total_intl_charge;Numérico;Cobrança no plano internacional
+number_customer_service_calls;Numérico;Número de ligações feitas ao serviço de atendimento ao cliente
+churned;Booleano;Yes = Trocou de empresa, No = Não trocou de empresa
